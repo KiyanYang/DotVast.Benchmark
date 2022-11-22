@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotVast.Benchmark", "DotVast.Benchmark\DotVast.Benchmark.csproj", "{3116FF8B-0A7E-40EB-B61A-175349ED37EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotVast.Benchmark", "DotVast.Benchmark\DotVast.Benchmark.csproj", "{3116FF8B-0A7E-40EB-B61A-175349ED37EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotVast.Benchmark.Reflection", "DotVast.Benchmark.Reflection\DotVast.Benchmark.Reflection.csproj", "{94EE2632-BD6F-4784-9C32-0657572DED8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3116FF8B-0A7E-40EB-B61A-175349ED37EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3116FF8B-0A7E-40EB-B61A-175349ED37EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3116FF8B-0A7E-40EB-B61A-175349ED37EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EE2632-BD6F-4784-9C32-0657572DED8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EE2632-BD6F-4784-9C32-0657572DED8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EE2632-BD6F-4784-9C32-0657572DED8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EE2632-BD6F-4784-9C32-0657572DED8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
